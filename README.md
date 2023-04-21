@@ -1,5 +1,8 @@
 <h1> AluraPlus </h1>
 
+![image](https://user-images.githubusercontent.com/108037292/233713459-da563727-a1f0-4c6a-917a-d01c71827e70.png)
+
+
 <ul>
  <li><h2>Descrição do projeto</h2>
  <p>  O projeto foi realizado em um curso da Alura para concretizar aprendizados sobre: uso de tags semânticas; utilização de display flex e grid; utilização de pseudo-elementos; como usar o Figma como referência visual para arquitetar o projeto; entre outros que foram trabalhados com menor importância </p> <hr>
